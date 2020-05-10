@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42c6ffd9-0b95-446f-b5c8-9d69be1ae4b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/kotlinDoc/Generics.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kotlinDoc/VarArgFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlinDoc/VarArgFunctions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kotlinDoc/ClassesDeclaration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlinDoc/ClassesDeclaration.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,15 +61,28 @@
       <recent name="C:\Users\Binoy's Lab\IdeaProjects\basicKotlin\src\basicPackage" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.VarArgFunctionsKt">
-    <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.GenericsKt">
+    <configuration name="ClassesDeclarationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="basicKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="kotlinDoc.FunctionsKt" />
+      <option name="MAIN_CLASS_NAME" value="kotlinDoc.ClassesDeclarationKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="basicKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="kotlinDoc.GenericsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,33 +127,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="kotlinDoc.VariablesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="basicKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="kotlinDoc.VariablesKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Kotlin.kotlinDoc.VariablesKt" />
-      <item itemvalue="Kotlin.FunctionsKt" />
       <item itemvalue="Kotlin.InfixFunctionsKt" />
       <item itemvalue="Kotlin.OperatorFunctionsKt" />
       <item itemvalue="Kotlin.VarArgFunctionsKt" />
+      <item itemvalue="Kotlin.ClassesDeclarationKt" />
+      <item itemvalue="Kotlin.GenericsKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.GenericsKt" />
+        <item itemvalue="Kotlin.ClassesDeclarationKt" />
         <item itemvalue="Kotlin.VarArgFunctionsKt" />
         <item itemvalue="Kotlin.OperatorFunctionsKt" />
         <item itemvalue="Kotlin.InfixFunctionsKt" />
-        <item itemvalue="Kotlin.FunctionsKt" />
-        <item itemvalue="Kotlin.kotlinDoc.VariablesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589077083392</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="my second program push">
+      <created>1589106601382</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589106601382</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -217,32 +225,39 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="my first program" />
-    <option name="LAST_COMMIT_MESSAGE" value="my first program" />
+    <MESSAGE value="my second program push" />
+    <option name="LAST_COMMIT_MESSAGE" value="my second program push" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="307" y="23" key="CommitChangelistDialog2" timestamp="1589077083110">
-      <screen x="0" y="23" width="1440" height="809" />
+    <state x="122" y="-1057" key="CommitChangelistDialog2" timestamp="1589106601197">
+      <screen x="-287" y="-1057" width="1920" height="1057" />
     </state>
+    <state x="122" y="-1057" key="CommitChangelistDialog2/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589106601197" />
     <state x="307" y="23" key="CommitChangelistDialog2/0.23.1440.809@0.23.1440.809" timestamp="1589077083110" />
-    <state width="1398" height="239" key="GridCell.Tab.0.bottom" timestamp="1589076918496">
-      <screen x="0" y="23" width="1440" height="809" />
+    <state width="1878" height="308" key="GridCell.Tab.0.bottom" timestamp="1589107575315">
+      <screen x="-287" y="-1057" width="1920" height="1057" />
     </state>
+    <state width="1878" height="308" key="GridCell.Tab.0.bottom/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589107575315" />
     <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1589076918496" />
-    <state width="1398" height="239" key="GridCell.Tab.0.center" timestamp="1589076918496">
-      <screen x="0" y="23" width="1440" height="809" />
+    <state width="1878" height="308" key="GridCell.Tab.0.center" timestamp="1589107575314">
+      <screen x="-287" y="-1057" width="1920" height="1057" />
     </state>
+    <state width="1878" height="308" key="GridCell.Tab.0.center/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589107575314" />
     <state width="1398" height="239" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1589076918496" />
-    <state width="1398" height="239" key="GridCell.Tab.0.left" timestamp="1589076918495">
-      <screen x="0" y="23" width="1440" height="809" />
+    <state width="1878" height="308" key="GridCell.Tab.0.left" timestamp="1589107575314">
+      <screen x="-287" y="-1057" width="1920" height="1057" />
     </state>
+    <state width="1878" height="308" key="GridCell.Tab.0.left/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589107575314" />
     <state width="1398" height="239" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1589076918495" />
-    <state width="1398" height="239" key="GridCell.Tab.0.right" timestamp="1589076918496">
-      <screen x="0" y="23" width="1440" height="809" />
+    <state width="1878" height="308" key="GridCell.Tab.0.right" timestamp="1589107575314">
+      <screen x="-287" y="-1057" width="1920" height="1057" />
     </state>
+    <state width="1878" height="308" key="GridCell.Tab.0.right/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589107575314" />
     <state width="1398" height="239" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1589076918496" />
-    <state x="320" y="167" key="Vcs.Push.Dialog.v2" timestamp="1589077096144">
-      <screen x="0" y="23" width="1440" height="809" />
+    <state x="140" y="-869" key="Vcs.Push.Dialog.v2" timestamp="1589106630168">
+      <screen x="-287" y="-1057" width="1920" height="1057" />
     </state>
+    <state x="140" y="-869" key="Vcs.Push.Dialog.v2/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589106630168" />
     <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.809@0.23.1440.809" timestamp="1589077096144" />
   </component>
   <component name="antWorkspaceConfiguration">
