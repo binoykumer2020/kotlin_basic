@@ -1,4 +1,4 @@
-package kotlinDoc
+package intro
 
 // Default parameter values and named arguments
 // a simple function that takes a parameter of type String and returns Unit (i.e No return value)

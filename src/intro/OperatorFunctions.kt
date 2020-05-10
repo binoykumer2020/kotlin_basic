@@ -1,4 +1,4 @@
-package kotlinDoc
+package intro
 
 
 fun main(args: Array<String>) {

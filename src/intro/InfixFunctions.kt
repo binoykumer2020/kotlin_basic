@@ -1,4 +1,4 @@
-package kotlinDoc
+package intro
 
 // member functions and extensions with a single parameter can be turned into infix functions
 

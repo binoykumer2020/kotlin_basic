@@ -3,7 +3,7 @@ Generics are generally mechanism. Generics classes and functions code reusabilit
 generic type like List<T> is indepenedent of wjat T is
 
  */
-package kotlinDoc
+package intro
 
 // the use of generics in creating generic classes
 
@@ -26,7 +26,7 @@ class  MutableStack<E> (vararg items : E)
 
 // we can also create a generic functions for example we can write a utility function to create mutable stacks
 
-fun <E> mutableStackOf ( vararg elements: E) = MutableStack ( *elements)
+fun <E> mutableStackOf ( vararg elements: E) = MutableStack(*elements)
 
 fun main(args: Array<String>) {
     val stack = mutableStackOf(0.67, 123, 2.78, 0)
@@ -35,5 +35,5 @@ fun main(args: Array<String>) {
 
     println(stack.push(123456))
     println(stack.toStrring())
-    
+
 }

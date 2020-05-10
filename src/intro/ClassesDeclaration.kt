@@ -1,4 +1,4 @@
-package kotlinDoc
+package intro
 
 /* class declaration consists of the class name  with class header ( type pf parameters and the
 primary constructors and the class body surrounded by curly braces.
@@ -14,9 +14,9 @@ class Contact ( val id : Int, var  email : String)  // class created with two pr
 
 fun main(args: Array<String>) {
 
-    val customer = Customer ( )  // an instance of a class via the default constructor and no new keyword like in Java or JS
+    val customer = Customer()  // an instance of a class via the default constructor and no new keyword like in Java or JS
 
-    val contract = Contact ( 1001, "test@123.com") // creates instance of the class with constructors with two arguments
+    val contract = Contact(1001, "test@123.com") // creates instance of the class with constructors with two arguments
 
     println(contract.id)
 
