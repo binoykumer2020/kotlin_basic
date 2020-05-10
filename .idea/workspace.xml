@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42c6ffd9-0b95-446f-b5c8-9d69be1ae4b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/kotlinDoc/InfixFunctions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlinDoc/OperatorFunctions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlinDoc/VarArgFunctions.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kotlinDoc/functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlinDoc/functions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kotlinDoc/variables.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlinDoc/variables.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kotlinDoc/VarArgFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlinDoc/VarArgFunctions.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589070464637</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="my first program">
+      <created>1589077083392</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589077083392</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -217,22 +220,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="my first program" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="84" key="GridCell.Tab.0.bottom" timestamp="1589076573881">
+    <state x="307" y="23" key="CommitChangelistDialog2" timestamp="1589077083110">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state width="1398" height="84" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1589076573881" />
-    <state width="1398" height="84" key="GridCell.Tab.0.center" timestamp="1589076573881">
+    <state x="307" y="23" key="CommitChangelistDialog2/0.23.1440.809@0.23.1440.809" timestamp="1589077083110" />
+    <state width="1398" height="239" key="GridCell.Tab.0.bottom" timestamp="1589076918496">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state width="1398" height="84" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1589076573881" />
-    <state width="1398" height="84" key="GridCell.Tab.0.left" timestamp="1589076573880">
+    <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1589076918496" />
+    <state width="1398" height="239" key="GridCell.Tab.0.center" timestamp="1589076918496">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state width="1398" height="84" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1589076573880" />
-    <state width="1398" height="84" key="GridCell.Tab.0.right" timestamp="1589076573881">
+    <state width="1398" height="239" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1589076918496" />
+    <state width="1398" height="239" key="GridCell.Tab.0.left" timestamp="1589076918495">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state width="1398" height="84" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1589076573881" />
+    <state width="1398" height="239" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1589076918495" />
+    <state width="1398" height="239" key="GridCell.Tab.0.right" timestamp="1589076918496">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1398" height="239" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1589076918496" />
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2" timestamp="1589077096144">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.809@0.23.1440.809" timestamp="1589077096144" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
