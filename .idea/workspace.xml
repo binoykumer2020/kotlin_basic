@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42c6ffd9-0b95-446f-b5c8-9d69be1ae4b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SpecialClasses/DataClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpecialClasses/SealedClass.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/control_flow/ranges.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/control_flow/equalityChecks.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SpecialClasses/EnumClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SpecialClasses/EnumClass.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,7 @@
       <recent name="C:\Users\Binoy's Lab\IdeaProjects\basicKotlin\src\basicPackage" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.DataClassKt">
+  <component name="RunManager" selected="Kotlin.SealedClassKt">
     <configuration name="DataClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="basicKotlin" />
       <option name="VM_PARAMETERS" />
@@ -72,6 +72,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="SpecialClasses.DataClassKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="basicKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="SpecialClasses.EnumClassKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,19 +103,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="basicKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="control_flow.IteratorOperatorKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LoopsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="basicKotlin" />
       <option name="VM_PARAMETERS" />
@@ -116,33 +116,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhenStatementKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="SealedClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="basicKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="control_flow.WhenStatementKt" />
+      <option name="MAIN_CLASS_NAME" value="SpecialClasses.SealedClassKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.WhenStatementKt" />
       <item itemvalue="Kotlin.LoopsKt" />
-      <item itemvalue="Kotlin.IteratorOperatorKt" />
       <item itemvalue="Kotlin.EqualityChecksKt" />
       <item itemvalue="Kotlin.DataClassKt" />
+      <item itemvalue="Kotlin.EnumClassKt" />
+      <item itemvalue="Kotlin.SealedClassKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SealedClassKt" />
+        <item itemvalue="Kotlin.EnumClassKt" />
         <item itemvalue="Kotlin.DataClassKt" />
         <item itemvalue="Kotlin.EqualityChecksKt" />
         <item itemvalue="Kotlin.LoopsKt" />
-        <item itemvalue="Kotlin.IteratorOperatorKt" />
-        <item itemvalue="Kotlin.WhenStatementKt" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589118033262</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="my second program push">
+      <created>1589123872295</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1589123872295</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -256,42 +263,42 @@
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
     <state x="391" y="-754" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589113242865" />
-    <state x="122" y="-1057" key="CommitChangelistDialog2" timestamp="1589118033076">
+    <state x="122" y="-1057" key="CommitChangelistDialog2" timestamp="1589123872080">
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
     <state x="122" y="-1057" key="CommitChangelistDialog2/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589106601197" />
     <state x="307" y="23" key="CommitChangelistDialog2/0.23.1440.809@0.23.1440.809" timestamp="1589077083110" />
-    <state x="122" y="-1057" key="CommitChangelistDialog2/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589118033076" />
-    <state width="1878" height="225" key="GridCell.Tab.0.bottom" timestamp="1589123605639">
-      <screen x="-287" y="-1057" width="1920" height="989" />
+    <state x="122" y="-1057" key="CommitChangelistDialog2/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589123872080" />
+    <state width="1878" height="225" key="GridCell.Tab.0.bottom" timestamp="1589141316070">
+      <screen x="-287" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1878" height="308" key="GridCell.Tab.0.bottom/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589107575315" />
+    <state width="1878" height="225" key="GridCell.Tab.0.bottom/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589141316070" />
     <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1589076918496" />
-    <state width="1878" height="225" key="GridCell.Tab.0.bottom/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589123605639" />
-    <state width="1878" height="225" key="GridCell.Tab.0.center" timestamp="1589123605639">
-      <screen x="-287" y="-1057" width="1920" height="989" />
+    <state width="1878" height="225" key="GridCell.Tab.0.bottom/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589124374926" />
+    <state width="1878" height="225" key="GridCell.Tab.0.center" timestamp="1589141316069">
+      <screen x="-287" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1878" height="308" key="GridCell.Tab.0.center/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589107575314" />
+    <state width="1878" height="225" key="GridCell.Tab.0.center/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589141316069" />
     <state width="1398" height="239" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1589076918496" />
-    <state width="1878" height="225" key="GridCell.Tab.0.center/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589123605639" />
-    <state width="1878" height="225" key="GridCell.Tab.0.left" timestamp="1589123605638">
-      <screen x="-287" y="-1057" width="1920" height="989" />
+    <state width="1878" height="225" key="GridCell.Tab.0.center/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589124374925" />
+    <state width="1878" height="225" key="GridCell.Tab.0.left" timestamp="1589141316069">
+      <screen x="-287" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1878" height="308" key="GridCell.Tab.0.left/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589107575314" />
+    <state width="1878" height="225" key="GridCell.Tab.0.left/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589141316069" />
     <state width="1398" height="239" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1589076918495" />
-    <state width="1878" height="225" key="GridCell.Tab.0.left/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589123605638" />
-    <state width="1878" height="225" key="GridCell.Tab.0.right" timestamp="1589123605639">
-      <screen x="-287" y="-1057" width="1920" height="989" />
+    <state width="1878" height="225" key="GridCell.Tab.0.left/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589124374925" />
+    <state width="1878" height="225" key="GridCell.Tab.0.right" timestamp="1589141316069">
+      <screen x="-287" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1878" height="308" key="GridCell.Tab.0.right/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589107575314" />
+    <state width="1878" height="225" key="GridCell.Tab.0.right/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589141316069" />
     <state width="1398" height="239" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1589076918496" />
-    <state width="1878" height="225" key="GridCell.Tab.0.right/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589123605639" />
-    <state x="140" y="-881" key="Vcs.Push.Dialog.v2" timestamp="1589118035566">
+    <state width="1878" height="225" key="GridCell.Tab.0.right/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589124374926" />
+    <state x="140" y="-881" key="Vcs.Push.Dialog.v2" timestamp="1589123876074">
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
     <state x="140" y="-869" key="Vcs.Push.Dialog.v2/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589106630168" />
     <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.809@0.23.1440.809" timestamp="1589077096144" />
-    <state x="140" y="-881" key="Vcs.Push.Dialog.v2/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589118035566" />
+    <state x="140" y="-881" key="Vcs.Push.Dialog.v2/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589123876074" />
     <state x="338" y="-839" width="670" height="676" key="search.everywhere.popup" timestamp="1589118389521">
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
