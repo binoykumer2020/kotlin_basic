@@ -13,4 +13,8 @@ fun main(args : Array<String>)
     // another method to print
     println("The another way: ${Binoy.name}" + " so cool")
 
+    var CountryName = Kotlin()
+    CountryName.country = "India"
+    println("${CountryName.country}")
+
 }
