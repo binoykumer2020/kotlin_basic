@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42c6ffd9-0b95-446f-b5c8-9d69be1ae4b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/control_flow/IteratorOperator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/control_flow/WhenStatement.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/control_flow/loops.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intro/Inheritance.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/control_flow/ranges.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kotlinDoc/ClassesDeclaration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/intro/ClassesDeclaration.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kotlinDoc/Generics.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/intro/Generics.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kotlinDoc/InfixFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/intro/InfixFunctions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kotlinDoc/OperatorFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/intro/OperatorFunctions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kotlinDoc/VarArgFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/intro/VarArgFunctions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kotlinDoc/functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/intro/functions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kotlinDoc/variables.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/intro/variables.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/control_flow/IteratorOperator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/control_flow/IteratorOperator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/control_flow/loops.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/control_flow/loops.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +65,19 @@
     </key>
   </component>
   <component name="RunManager" selected="Kotlin.LoopsKt">
+    <configuration name="IteratorOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="basicKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="control_flow.IteratorOperatorKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LoopsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="basicKotlin" />
       <option name="VM_PARAMETERS" />
@@ -81,19 +86,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="control_flow.LoopsKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OperatorFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="basicKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="intro.OperatorFunctionsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -139,19 +131,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.OperatorFunctionsKt" />
       <item itemvalue="Kotlin.VarArgFunctionsKt" />
       <item itemvalue="Kotlin.VariablesKt" />
       <item itemvalue="Kotlin.WhenStatementKt" />
       <item itemvalue="Kotlin.LoopsKt" />
+      <item itemvalue="Kotlin.IteratorOperatorKt" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.LoopsKt" />
+        <item itemvalue="Kotlin.IteratorOperatorKt" />
         <item itemvalue="Kotlin.WhenStatementKt" />
         <item itemvalue="Kotlin.VariablesKt" />
         <item itemvalue="Kotlin.VarArgFunctionsKt" />
-        <item itemvalue="Kotlin.OperatorFunctionsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589110127595</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="my second program push">
+      <created>1589115594047</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1589115594047</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -251,42 +250,42 @@
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
     <state x="391" y="-754" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589113242865" />
-    <state x="122" y="-1057" key="CommitChangelistDialog2" timestamp="1589110127397">
+    <state x="122" y="-1057" key="CommitChangelistDialog2" timestamp="1589115593821">
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
     <state x="122" y="-1057" key="CommitChangelistDialog2/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589106601197" />
     <state x="307" y="23" key="CommitChangelistDialog2/0.23.1440.809@0.23.1440.809" timestamp="1589077083110" />
-    <state x="122" y="-1057" key="CommitChangelistDialog2/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589110127397" />
-    <state width="1878" height="225" key="GridCell.Tab.0.bottom" timestamp="1589115334994">
+    <state x="122" y="-1057" key="CommitChangelistDialog2/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589115593821" />
+    <state width="1878" height="225" key="GridCell.Tab.0.bottom" timestamp="1589117139529">
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
     <state width="1878" height="308" key="GridCell.Tab.0.bottom/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589107575315" />
     <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1589076918496" />
-    <state width="1878" height="225" key="GridCell.Tab.0.bottom/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589115334994" />
-    <state width="1878" height="225" key="GridCell.Tab.0.center" timestamp="1589115334993">
+    <state width="1878" height="225" key="GridCell.Tab.0.bottom/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589117139529" />
+    <state width="1878" height="225" key="GridCell.Tab.0.center" timestamp="1589117139528">
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
     <state width="1878" height="308" key="GridCell.Tab.0.center/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589107575314" />
     <state width="1398" height="239" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1589076918496" />
-    <state width="1878" height="225" key="GridCell.Tab.0.center/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589115334993" />
-    <state width="1878" height="225" key="GridCell.Tab.0.left" timestamp="1589115334993">
+    <state width="1878" height="225" key="GridCell.Tab.0.center/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589117139528" />
+    <state width="1878" height="225" key="GridCell.Tab.0.left" timestamp="1589117139527">
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
     <state width="1878" height="308" key="GridCell.Tab.0.left/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589107575314" />
     <state width="1398" height="239" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1589076918495" />
-    <state width="1878" height="225" key="GridCell.Tab.0.left/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589115334993" />
-    <state width="1878" height="225" key="GridCell.Tab.0.right" timestamp="1589115334993">
+    <state width="1878" height="225" key="GridCell.Tab.0.left/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589117139527" />
+    <state width="1878" height="225" key="GridCell.Tab.0.right" timestamp="1589117139529">
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
     <state width="1878" height="308" key="GridCell.Tab.0.right/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589107575314" />
     <state width="1398" height="239" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1589076918496" />
-    <state width="1878" height="225" key="GridCell.Tab.0.right/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589115334993" />
-    <state x="140" y="-881" key="Vcs.Push.Dialog.v2" timestamp="1589110144826">
+    <state width="1878" height="225" key="GridCell.Tab.0.right/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589117139529" />
+    <state x="140" y="-881" key="Vcs.Push.Dialog.v2" timestamp="1589115595916">
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
     <state x="140" y="-869" key="Vcs.Push.Dialog.v2/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589106630168" />
     <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.809@0.23.1440.809" timestamp="1589077096144" />
-    <state x="140" y="-881" key="Vcs.Push.Dialog.v2/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589110144826" />
+    <state x="140" y="-881" key="Vcs.Push.Dialog.v2/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589115595916" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
