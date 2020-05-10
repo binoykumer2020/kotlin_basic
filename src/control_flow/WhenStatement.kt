@@ -24,6 +24,7 @@ fun main(args: Array<String>) {
     }
 
     // when expression
+    // I need to investigate a little bit more about it 
 
     println("Enter a number between 1 to 5")
     var number = Integer.valueOf(readLine())
