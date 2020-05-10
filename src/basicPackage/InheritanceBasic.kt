@@ -1,27 +1,27 @@
-/*
-In Kotlin all the classes and their related func are being treated as
+package basicPackage/*
+In basicPackage.Kotlin all the classes and their related func are being treated as
 final (a non accessible modifier) to use them we need to use keyword called open
  */
 
 open class Parent {
 
-    val name: String = " Parent"
+    val name: String = " basicPackage.Parent"
     open fun displayInfo ( ){ println("Name is ${name}")}
    open fun run ( )
     {
-        println(" Parent class can run")
+        println(" basicPackage.Parent class can run")
     }
 }
 
-class Child : Parent ( ) {
+class Child : Parent( ) {
     override fun run ( )
     {
-        println("Child can run")
+        println("basicPackage.Child can run")
     }
 
     override fun displayInfo() {
 
-        println("name is Child")
+        println("name is basicPackage.Child")
     }
 
 }

@@ -1,3 +1,5 @@
+package basicPackage
+
 class Kotlin {
 
     var name : String = ""

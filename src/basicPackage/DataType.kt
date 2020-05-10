@@ -1,4 +1,4 @@
-import java.util.*
+package basicPackage
 
 class DataType {
 

@@ -1,3 +1,5 @@
+package basicPackage
+
 import kotlin.reflect.jvm.internal.impl.resolve.constants.IntegerValueConstant
 
 fun main(args: Array<String>) {

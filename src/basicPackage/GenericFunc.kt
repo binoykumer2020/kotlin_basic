@@ -1,4 +1,4 @@
-
+package basicPackage
 
 // A generic function is a function that is declared with type parameters
 // When called, actual types are used instead of the type parameters
@@ -10,7 +10,7 @@ fun main(args: Array<String>) {
     // lambda func
 
     var sum = { x: Int, y: Int -> x + y }
-    //print("The sum of x and y : ${sum (12, 12)}")
+    //print("The basicPackage.sum of x and y : ${basicPackage.sum (12, 12)}")
 
     // lambda as a unit
 
