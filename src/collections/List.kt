@@ -3,11 +3,13 @@ package collections
 /*
 A list is an ordered collections of items. Lists can be either mutable (MutableList) or read-onle (List)
 for list creation use the standard library functions lostOf() for read-only list and mutableListOf() for mutable lists
+To prevent unwanted modifications, obtain read-only views of mutable lists by casting them to List
  */
 
 val systemUsers : MutableList<String> = mutableListOf("Binoy", "Ishaan", "Tejas") // creates a MutableList
 
 // I would like to add a new user to the MutableList--. which is changeable
+
 fun addSudoer (newUser : String )
 { systemUsers.add(newUser) }
 
