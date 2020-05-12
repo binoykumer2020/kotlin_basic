@@ -2,13 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42c6ffd9-0b95-446f-b5c8-9d69be1ae4b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/funda/nullPointerException.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funda/object1.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twinkle/function1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/twinkle/function1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twinkle/array.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/funda/array.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twinkle/array2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/funda/array2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twinkle/array3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/funda/array3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twinkle/basic1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/funda/basic1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twinkle/conditional.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/funda/conditional.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twinkle/function1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/funda/function1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twinkle/loops.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/funda/loops.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twinkle/nullPointerException.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twinkle/stringFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/funda/stringFunction.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twinkle/topics.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/funda/topics.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twinkle/when.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/funda/when.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twinkle/whenWithFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/funda/whenWithFunction.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Open Files" color="Orange" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -26,23 +42,6 @@
     </option>
   </component>
   <component name="ProjectId" id="1bh5Ybr246UBkOLn9Ht5GxcRXV0" />
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State />
-          <State>
-            <id>Cucumber</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>Android</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -53,7 +52,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="project.propGUI" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -63,20 +62,7 @@
       <recent name="C:\Users\Binoy's Lab\IdeaProjects\basicKotlin\src\basicPackage" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Function1Kt">
-    <configuration name="Array2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="basicKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="twinkle.Array2Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Object1Kt">
     <configuration name="Array3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="basicKotlin" />
       <option name="VM_PARAMETERS" />
@@ -84,20 +70,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="twinkle.Array3Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="basicKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="twinkle.ArrayKt" />
+      <option name="MAIN_CLASS_NAME" value="funda.Array3Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -110,7 +83,33 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="twinkle.Function1Kt" />
+      <option name="MAIN_CLASS_NAME" value="funda.Function1Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NullPointerExceptionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="basicKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="funda.NullPointerExceptionKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Object1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="basicKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="funda.Object1Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -123,26 +122,26 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="twinkle.StringFunctionKt" />
+      <option name="MAIN_CLASS_NAME" value="funda.StringFunctionKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.ArrayKt" />
-      <item itemvalue="Kotlin.Array2Kt" />
       <item itemvalue="Kotlin.Array3Kt" />
       <item itemvalue="Kotlin.StringFunctionKt" />
       <item itemvalue="Kotlin.Function1Kt" />
+      <item itemvalue="Kotlin.NullPointerExceptionKt" />
+      <item itemvalue="Kotlin.Object1Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Object1Kt" />
+        <item itemvalue="Kotlin.NullPointerExceptionKt" />
         <item itemvalue="Kotlin.Function1Kt" />
         <item itemvalue="Kotlin.StringFunctionKt" />
         <item itemvalue="Kotlin.Array3Kt" />
-        <item itemvalue="Kotlin.Array2Kt" />
-        <item itemvalue="Kotlin.ArrayKt" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589241359817</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="this inclued functiona and null pointer exception logic">
+      <created>1589242886801</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1589242886801</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -300,43 +306,44 @@
     <MESSAGE value="my fourth program push" />
     <MESSAGE value="my first twinkle program push" />
     <MESSAGE value="my second twinkle program push" />
-    <option name="LAST_COMMIT_MESSAGE" value="my second twinkle program push" />
+    <MESSAGE value="this inclued functiona and null pointer exception logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="this inclued functiona and null pointer exception logic" />
   </component>
   <component name="WindowStateProjectService">
     <state x="391" y="-754" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589113242865">
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
     <state x="391" y="-754" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589113242865" />
-    <state x="122" y="-1057" key="CommitChangelistDialog2" timestamp="1589241359620">
+    <state x="122" y="-1057" key="CommitChangelistDialog2" timestamp="1589242886597">
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
     <state x="122" y="-1057" key="CommitChangelistDialog2/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589220839736" />
     <state x="307" y="23" key="CommitChangelistDialog2/0.23.1440.809@0.23.1440.809" timestamp="1589193266113" />
-    <state x="122" y="-1057" key="CommitChangelistDialog2/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589241359620" />
-    <state width="1878" height="221" key="GridCell.Tab.0.bottom" timestamp="1589242342173">
+    <state x="122" y="-1057" key="CommitChangelistDialog2/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589242886597" />
+    <state width="1878" height="221" key="GridCell.Tab.0.bottom" timestamp="1589245087044">
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
     <state width="1878" height="242" key="GridCell.Tab.0.bottom/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589220810929" />
     <state width="1398" height="161" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1589212504113" />
-    <state width="1878" height="221" key="GridCell.Tab.0.bottom/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589242342173" />
-    <state width="1878" height="221" key="GridCell.Tab.0.center" timestamp="1589242342172">
+    <state width="1878" height="221" key="GridCell.Tab.0.bottom/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589245087044" />
+    <state width="1878" height="221" key="GridCell.Tab.0.center" timestamp="1589245087043">
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
     <state width="1878" height="242" key="GridCell.Tab.0.center/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589220810928" />
     <state width="1398" height="161" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1589212504112" />
-    <state width="1878" height="221" key="GridCell.Tab.0.center/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589242342172" />
-    <state width="1878" height="221" key="GridCell.Tab.0.left" timestamp="1589242342171">
+    <state width="1878" height="221" key="GridCell.Tab.0.center/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589245087043" />
+    <state width="1878" height="221" key="GridCell.Tab.0.left" timestamp="1589245087043">
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
     <state width="1878" height="242" key="GridCell.Tab.0.left/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589220810928" />
     <state width="1398" height="161" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1589212504111" />
-    <state width="1878" height="221" key="GridCell.Tab.0.left/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589242342171" />
-    <state width="1878" height="221" key="GridCell.Tab.0.right" timestamp="1589242342172">
+    <state width="1878" height="221" key="GridCell.Tab.0.left/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589245087043" />
+    <state width="1878" height="221" key="GridCell.Tab.0.right" timestamp="1589245087044">
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
     <state width="1878" height="242" key="GridCell.Tab.0.right/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589220810929" />
     <state width="1398" height="161" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1589212504113" />
-    <state width="1878" height="221" key="GridCell.Tab.0.right/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589242342172" />
+    <state width="1878" height="221" key="GridCell.Tab.0.right/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589245087044" />
     <state width="1878" height="329" key="GridCell.Tab.1.bottom" timestamp="1589230790482">
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
@@ -357,56 +364,27 @@
     </state>
     <state width="1398" height="258" key="GridCell.Tab.1.right/0.23.1440.809@0.23.1440.809" timestamp="1589212378276" />
     <state width="1878" height="329" key="GridCell.Tab.1.right/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589230790481" />
-    <state x="140" y="-881" key="Vcs.Push.Dialog.v2" timestamp="1589241369329">
+    <state x="182" y="-924" key="SettingsEditor" timestamp="1589245980074">
+      <screen x="-287" y="-1057" width="1920" height="989" />
+    </state>
+    <state x="182" y="-924" key="SettingsEditor/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589245980074" />
+    <state x="140" y="-881" key="Vcs.Push.Dialog.v2" timestamp="1589242891191">
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
     <state x="140" y="-869" key="Vcs.Push.Dialog.v2/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589220851224" />
     <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.809@0.23.1440.809" timestamp="1589193281473" />
-    <state x="140" y="-881" key="Vcs.Push.Dialog.v2/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589241369329" />
-    <state x="338" y="-839" width="670" height="676" key="search.everywhere.popup" timestamp="1589240133692">
+    <state x="140" y="-881" key="Vcs.Push.Dialog.v2/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589242891191" />
+    <state x="433" y="-683" width="621" height="271" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1589245776863">
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
-    <state x="338" y="-839" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589240133692" />
+    <state x="433" y="-683" width="621" height="271" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589245776863" />
+    <state x="338" y="-839" width="670" height="676" key="search.everywhere.popup" timestamp="1589243569576">
+      <screen x="-287" y="-1057" width="1920" height="989" />
+    </state>
+    <state x="338" y="-839" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589243569576" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

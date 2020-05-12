@@ -1,4 +1,4 @@
-package twinkle
+package funda
 
 // we are going to use when with a function
 

@@ -1,4 +1,4 @@
-package twinkle
+package funda
 
 // data type  variables literals
 // data type primitive and non primitive (Object) primitive such int, float etc -->object : String

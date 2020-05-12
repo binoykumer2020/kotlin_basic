@@ -1,4 +1,4 @@
-package twinkle
+package funda
 
 // two dimentional array matrix RC ROW AND COLUMN  -->array of array
 

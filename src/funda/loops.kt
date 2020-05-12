@@ -1,4 +1,4 @@
-package twinkle
+package funda
 
 // for loop while loop do-while loop
 // loop nested loops and conditional statements

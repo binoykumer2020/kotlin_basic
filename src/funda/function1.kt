@@ -1,4 +1,4 @@
-package twinkle
+package funda
 
 // creating a function
 // parameter args fun devs ( name : String )
