@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42c6ffd9-0b95-446f-b5c8-9d69be1ae4b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/twinkle/array.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twinkle/array2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twinkle/array3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twinkle/stringFunction.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twinkle/whenWithFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/twinkle/whenWithFunction.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twinkle/function1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/twinkle/function1.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +63,7 @@
       <recent name="C:\Users\Binoy's Lab\IdeaProjects\basicKotlin\src\basicPackage" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.StringFunctionKt">
+  <component name="RunManager" selected="Kotlin.Function1Kt">
     <configuration name="Array2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="basicKotlin" />
       <option name="VM_PARAMETERS" />
@@ -107,6 +103,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Function1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="basicKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="twinkle.Function1Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="basicKotlin" />
       <option name="VM_PARAMETERS" />
@@ -120,33 +129,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhenWithFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="basicKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="twinkle.WhenWithFunctionKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Kotlin.WhenWithFunctionKt" />
       <item itemvalue="Kotlin.ArrayKt" />
       <item itemvalue="Kotlin.Array2Kt" />
       <item itemvalue="Kotlin.Array3Kt" />
       <item itemvalue="Kotlin.StringFunctionKt" />
+      <item itemvalue="Kotlin.Function1Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Function1Kt" />
         <item itemvalue="Kotlin.StringFunctionKt" />
         <item itemvalue="Kotlin.Array3Kt" />
         <item itemvalue="Kotlin.Array2Kt" />
         <item itemvalue="Kotlin.ArrayKt" />
-        <item itemvalue="Kotlin.WhenWithFunctionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589237137694</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="my second twinkle program push">
+      <created>1589241359817</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1589241359817</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -296,43 +299,44 @@
     <MESSAGE value="my third program push" />
     <MESSAGE value="my fourth program push" />
     <MESSAGE value="my first twinkle program push" />
-    <option name="LAST_COMMIT_MESSAGE" value="my first twinkle program push" />
+    <MESSAGE value="my second twinkle program push" />
+    <option name="LAST_COMMIT_MESSAGE" value="my second twinkle program push" />
   </component>
   <component name="WindowStateProjectService">
     <state x="391" y="-754" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589113242865">
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
     <state x="391" y="-754" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589113242865" />
-    <state x="122" y="-1057" key="CommitChangelistDialog2" timestamp="1589237137407">
+    <state x="122" y="-1057" key="CommitChangelistDialog2" timestamp="1589241359620">
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
     <state x="122" y="-1057" key="CommitChangelistDialog2/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589220839736" />
     <state x="307" y="23" key="CommitChangelistDialog2/0.23.1440.809@0.23.1440.809" timestamp="1589193266113" />
-    <state x="122" y="-1057" key="CommitChangelistDialog2/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589237137407" />
-    <state width="1878" height="221" key="GridCell.Tab.0.bottom" timestamp="1589241054526">
+    <state x="122" y="-1057" key="CommitChangelistDialog2/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589241359620" />
+    <state width="1878" height="221" key="GridCell.Tab.0.bottom" timestamp="1589242342173">
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
     <state width="1878" height="242" key="GridCell.Tab.0.bottom/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589220810929" />
     <state width="1398" height="161" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1589212504113" />
-    <state width="1878" height="221" key="GridCell.Tab.0.bottom/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589241054526" />
-    <state width="1878" height="221" key="GridCell.Tab.0.center" timestamp="1589241054525">
+    <state width="1878" height="221" key="GridCell.Tab.0.bottom/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589242342173" />
+    <state width="1878" height="221" key="GridCell.Tab.0.center" timestamp="1589242342172">
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
     <state width="1878" height="242" key="GridCell.Tab.0.center/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589220810928" />
     <state width="1398" height="161" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1589212504112" />
-    <state width="1878" height="221" key="GridCell.Tab.0.center/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589241054525" />
-    <state width="1878" height="221" key="GridCell.Tab.0.left" timestamp="1589241054525">
+    <state width="1878" height="221" key="GridCell.Tab.0.center/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589242342172" />
+    <state width="1878" height="221" key="GridCell.Tab.0.left" timestamp="1589242342171">
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
     <state width="1878" height="242" key="GridCell.Tab.0.left/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589220810928" />
     <state width="1398" height="161" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1589212504111" />
-    <state width="1878" height="221" key="GridCell.Tab.0.left/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589241054525" />
-    <state width="1878" height="221" key="GridCell.Tab.0.right" timestamp="1589241054525">
+    <state width="1878" height="221" key="GridCell.Tab.0.left/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589242342171" />
+    <state width="1878" height="221" key="GridCell.Tab.0.right" timestamp="1589242342172">
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
     <state width="1878" height="242" key="GridCell.Tab.0.right/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589220810929" />
     <state width="1398" height="161" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1589212504113" />
-    <state width="1878" height="221" key="GridCell.Tab.0.right/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589241054525" />
+    <state width="1878" height="221" key="GridCell.Tab.0.right/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589242342172" />
     <state width="1878" height="329" key="GridCell.Tab.1.bottom" timestamp="1589230790482">
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
@@ -353,12 +357,12 @@
     </state>
     <state width="1398" height="258" key="GridCell.Tab.1.right/0.23.1440.809@0.23.1440.809" timestamp="1589212378276" />
     <state width="1878" height="329" key="GridCell.Tab.1.right/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589230790481" />
-    <state x="140" y="-881" key="Vcs.Push.Dialog.v2" timestamp="1589237140013">
+    <state x="140" y="-881" key="Vcs.Push.Dialog.v2" timestamp="1589241369329">
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
     <state x="140" y="-869" key="Vcs.Push.Dialog.v2/0.23.1440.809/-287.-1057.1920.1057@-287.-1057.1920.1057" timestamp="1589220851224" />
     <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.809@0.23.1440.809" timestamp="1589193281473" />
-    <state x="140" y="-881" key="Vcs.Push.Dialog.v2/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589237140013" />
+    <state x="140" y="-881" key="Vcs.Push.Dialog.v2/0.23.1440.877/-287.-1057.1920.989@-287.-1057.1920.989" timestamp="1589241369329" />
     <state x="338" y="-839" width="670" height="676" key="search.everywhere.popup" timestamp="1589240133692">
       <screen x="-287" y="-1057" width="1920" height="989" />
     </state>
